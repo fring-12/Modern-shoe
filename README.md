@@ -1,5 +1,5 @@
 # Modern-shoe
 CSS project
 
-#credit
+# credit
 Kevin Powell
